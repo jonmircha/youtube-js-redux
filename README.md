@@ -1,6 +1,6 @@
 # Curso _Redux_ con _Vanilla JavaScript_
 
-En este repositorio encontrarás los recursos para seguir el [Curso de _Redux_ con _Vanilla JavaScript_](https://www.youtube.com/watch?v=2_w3DnIKHxM) de [Jonathan MirCha](https://jonmircha.com/).
+En este repositorio encontrarás los recursos para seguir el [Curso de _Redux_ con _Vanilla JavaScript_](https://www.youtube.com/watch?v=-vr_VrT6v6c) de [Jonathan MirCha](https://jonmircha.com/).
 
 ## Mis Redes Sociales
 
